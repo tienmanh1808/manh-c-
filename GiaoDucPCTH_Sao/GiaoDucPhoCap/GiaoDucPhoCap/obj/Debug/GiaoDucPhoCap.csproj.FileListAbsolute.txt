@@ -1,0 +1,137 @@
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.pdb
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDuLieuPhoCap.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.Properties.Resources.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.GenerateResource.Cache
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.exe
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.pdb
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThonXom.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe.config
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmChuHo.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThanhVien.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmGiaoVien.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmHocSinhKhac.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongKe.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmMain.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDanhSach.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USThongTinDonVi.resources
+C:\Documents and Settings\SAO\My Documents\Visual Studio 2008\Projects\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmCosovatchat.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe.config
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.exe
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.pdb
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.pdb
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\ResolveAssemblyReference.cache
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmCosovatchat.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDanhSach.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDuLieuPhoCap.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmChuHo.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmGiaoVien.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmHocSinhKhac.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmMain.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThanhVien.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongKe.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThonXom.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.Properties.Resources.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USThongTinDonVi.resources
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.GenerateResource.Cache
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.ResolveComReference.cache
+E:\GiaoDucPCTH\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongTinDonVi.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe.config
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.exe
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.pdb
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.pdb
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\ResolveAssemblyReference.cache
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmCosovatchat.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDanhSach.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDuLieuPhoCap.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmChuHo.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmGiaoVien.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmMain.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThanhVien.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongKe.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThonXom.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.Properties.Resources.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USThongTinDonVi.resources
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.GenerateResource.Cache
+E:\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USDanhMucThonXom.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe.config
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.exe
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.pdb
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.pdb
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongKe.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USDanhMucThonXom.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmCosovatchat.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDanhSach.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDuLieuPhoCap.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmChuHo.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmGiaoVien.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmMain.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThanhVien.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThonXom.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.Properties.Resources.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USThongTinDonVi.resources
+C:\Documents and Settings\ghkgvkgv\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.GenerateResource.Cache
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe.config
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.exe
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.pdb
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.pdb
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDanhSach.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongKe.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USDanhMucThonXom.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmCosovatchat.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDuLieuPhoCap.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmChuHo.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmGiaoVien.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmMain.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThanhVien.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThonXom.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.Properties.Resources.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USThongTinDonVi.resources
+C:\Documents and Settings\Administrator\Desktop\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDanhSach.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongKe.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USDanhMucThonXom.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmCosovatchat.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDuLieuPhoCap.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmChuHo.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmGiaoVien.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmMain.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThanhVien.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThonXom.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USThongTinDonVi.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.exe
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.pdb
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe.config
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.exe
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.pdb
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csprojResolveAssemblyReference.cache
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDanhSach.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThongKe.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USDanhMucThonXom.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmCosovatchat.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmDuLieuPhoCap.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmChuHo.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmGiaoVien.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmMain.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThanhVien.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.frmThonXom.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.Properties.Resources.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.USThongTinDonVi.resources
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\obj\Debug\GiaoDucPhoCap.csproj.GenerateResource.Cache
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.exe
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\GiaoDucPhoCap.pdb
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\CrystalDecisions.Shared.dll
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\Microsoft.Office.Interop.Excel.dll
+C:\Users\Admin\Desktop\Quản lý xử lý dữ liệu phổ cập tiểu học C#\Quản lý xử lý dữ liệu phổ cập tiểu học C#\GiaoDucPCTH_Sao\GiaoDucPhoCap\GiaoDucPhoCap\bin\Debug\stdole.dll
